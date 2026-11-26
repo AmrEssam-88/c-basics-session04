@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\route course back-end.Net\\assignments\\assignment_5\\assignment_5solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6D1D4E-9064-7A72-1A5C-E09B0C08642F}|assignment_5\\assignment_5.csproj|d:\\courses\\route course back-end.net\\assignments\\assignment_5\\assignment_5solution\\assignment_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6D1D4E-9064-7A72-1A5C-E09B0C08642F}|assignment_5\\assignment_5.csproj|solutionrelative:assignment_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\route course back-end.Net\\assignments\\assignment_5\\assignment_5solution\\assignment_5\\Program.cs",
+              "RelativeDocumentMoniker": "assignment_5\\Program.cs",
+              "ToolTip": "D:\\courses\\route course back-end.Net\\assignments\\assignment_5\\assignment_5solution\\assignment_5\\Program.cs",
+              "RelativeToolTip": "assignment_5\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T12:07:04.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
